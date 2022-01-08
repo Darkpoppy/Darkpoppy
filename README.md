@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **sophie.zeng@mail.utoronto.com**
 
-- ⚡ Fun fact **Kayaked for three days in the Texan wilderness.**
+- ⚡ Fun fact **Kayaked for three days in the Texan wilderness. 🚣**
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
