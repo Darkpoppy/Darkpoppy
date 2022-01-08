@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **Decentralized Systems' Initiatives**
 
-- 💬 Ask me about **Algorithmic Optimization, Decentralized Technology, Machine Learning, Distributed and Parallel Computing**
+- 💬 Ask me about **Algorithmic Optimization, Decentralized Technology, Unsupervised Learning, Distributed and Parallel Computing**
 
 - 😄 Pronouns: **she / her**
 
