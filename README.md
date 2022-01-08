@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sophia</h1>
+<p align="center">
+ <img width="40%" src="https://media4.giphy.com/media/l2R09a5L5Bb6ppV7y/giphy.gif?cid=790b7611737ceacdb072c1db72eb766c6b322ced6391aeaf&rid=giphy.gif&ct=g" />
+</p>
 <h3 align="center">A Master Student passionated about Distrubuted & Decentralized Systems.</h3>
 
 - 🔭 I’m currently working on **Affinity Clustering**
@@ -69,8 +72,6 @@
     <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>
   </a>
 </p>
-
-
 
 <!--
 **Darkpoppy/Darkpoppy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
