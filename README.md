@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">A Master Student passionated about Distrubuted & Decentralized Systems.</h3>
 
-- 🔭 I’m currently working on **Affinity Clustering**
+- 🔭 I’m currently working on [**Affinity Clustering**](https://github.com/Darkpoppy/AffinityClustering)
 
 - 👯 I’m looking to collaborate on **Decentralized Systems' Initiatives**
 
